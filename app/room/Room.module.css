@@ -1,0 +1,497 @@
+body {
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.roomBg {
+  min-height: 100vh;
+  width: 100vw;
+  background: url('/Background-Game play.png') center center/cover no-repeat fixed;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: stretch;
+  direction: rtl;
+  overflow: hidden;
+}
+.roomBg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 20, 30, 0.55);
+  z-index: 0;
+  pointer-events: none;
+}
+.roomLayout {
+  display: grid;
+  grid-template-columns: 1.2fr 2fr 1.2fr;
+  grid-template-rows: 120px 1fr 120px;
+  min-height: 100vh;
+  width: 100vw;
+  position: relative;
+  z-index: 1;
+  direction: rtl;
+  overflow: hidden;
+}
+.roomPlayers {
+  grid-column: 3;
+  grid-row: 1 / span 2;
+  align-self: start;
+  justify-self: end;
+  padding: 32px 32px 0 0;
+  z-index: 2;
+  color: #fff;
+}
+.roomCode {
+  margin-top: 18px;
+  color: #ffd54f;
+  font-size: 1.3rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-shadow: 0 2px 8px #000a;
+  background: rgba(20, 30, 40, 0.7);
+  border-radius: 10px;
+  padding: 6px 18px;
+  display: inline-block;
+  margin-bottom: 8px;
+}
+.roomRole {
+  grid-column: 3;
+  grid-row: 1;
+  align-self: start;
+  justify-self: end;
+  padding: 32px 32px 0 0;
+  z-index: 2;
+  text-align: right;
+  color: #fff;
+}
+.roomChat {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  width: 420px;
+  height: 584px;
+  z-index: 12;
+  padding: 0;
+  background: none;
+}
+.roomChat .chatBox {
+  background: rgba(20, 30, 40, 0.96);
+  border-radius: 18px;
+  box-shadow: 0 4px 24px #000a;
+  padding: 18px 18px 12px 18px;
+  color: #e0f7fa;
+  border: 2px solid #ffd54f;
+}
+.roomVote {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
+  justify-self: center;
+  z-index: 2;
+}
+.roomCards {
+  background: none !important;
+  box-shadow: none !important;
+}
+.roomMainBtn {
+  grid-column: 2;
+  grid-row: 3;
+  align-self: end;
+  justify-self: center;
+  z-index: 2;
+  margin-bottom: 32px;
+}
+.roomBlob {
+  position: absolute;
+  top: 12%;
+  right: 8%;
+  width: 220px;
+  height: 220px;
+  opacity: 0.13;
+  z-index: 1;
+  animation: floatRoomBlob 22s ease-in-out infinite alternate;
+}
+@keyframes floatRoomBlob {
+  0% { transform: translateY(0) scale(1);}
+  100% { transform: translateY(40px) scale(1.09);}
+}
+.roomContainer {
+  max-width: 600px;
+  margin: 2rem auto;
+  background: rgba(255,255,255,0.80);
+  border-radius: 36px;
+  box-shadow: 0 8px 32px 0 #00897b22, 0 1.5px 8px 0 #fff8 inset;
+  border: 2px solid rgba(174, 233, 153, 0.18);
+  backdrop-filter: blur(6px);
+  padding: 40px 32px 32px 32px;
+  position: relative;
+  z-index: 2;
+  transition: box-shadow 0.2s, border 0.2s;
+}
+.myPlayer {
+  background: #e0f7fa;
+}
+.owner {
+  color: #f9a825;
+  margin-right: 8px;
+}
+.roleBox {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+.flip-card {
+  width: 360px;
+  height: 220px;
+  perspective: 1200px;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 22px;
+  transition: transform 0.7s cubic-bezier(.4,2,.6,1);
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 24px #000a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flip-card-front {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.flip-card-back {
+  background: rgba(0,0,0,0.0);
+  transform: rotateY(180deg);
+  flex-direction: column;
+  font-size: 24px;
+  font-weight: 800;
+  color: #ffd54f;
+  text-shadow: 0 2px 8px #000a;
+  padding: 28px;
+}
+.musicButton {
+  position: absolute;
+  top: 24px;
+  right: 130px;
+  z-index: 11;
+  min-width: 44px;
+  min-height: 44px;
+  border-radius: 50%;
+  background: #222b;
+  color: #ffd54f;
+  border: 2px solid #ffd54f;
+  box-shadow: 0 2px 12px #000a;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+}
+.musicButton:hover {
+  background: #ffd54f;
+  color: #222;
+  border: 2px solid #ffd54f;
+}
+.waiting {
+  margin-top: 16px;
+  color: #888;
+}
+.roomListItem {
+  list-style: none;
+  margin: 8px 0;
+  padding: 8px;
+  border-radius: 6px;
+  background: #f9f9f9;
+}
+.roomTitle {
+  color: #00897b;
+}
+.roleName {
+  color: #00897b;
+}
+.chatBox {
+  background: none !important;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px #000a;
+  padding: 18px 18px 12px 18px;
+  color: #e0f7fa;
+  border: 2px solid #ffd54f;
+  font-family: 'Cairo', 'Tajawal', Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  min-height: 584px;
+  max-height: 420px;
+  width: 400px;
+}
+.chatMessage {
+  margin-bottom: 10px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: #18222b;
+  font-size: 17px;
+  font-weight: 700;
+  color: #ffd54f;
+  box-shadow: 0 2px 8px #0007;
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+}
+.myChatMessage {
+  background: #1b2a36;
+  color: #00e6c3;
+}
+.chatInputRow {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+.chatInput {
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 2px solid #ffd54f;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: 'Cairo', 'Tajawal', Arial, sans-serif;
+  background: #222;
+  color: #ffd54f;
+}
+.chatSendBtn {
+  padding: 8px 22px;
+  border-radius: 8px;
+  background: linear-gradient(90deg,#00e6c3,#ffd54f);
+  color: #222;
+  border: none;
+  font-weight: 700;
+  font-size: 17px;
+  box-shadow: 0 2px 8px #0007;
+}
+.votingBox {
+  margin-top: 24px;
+  background: #f7f7f7;
+  border-radius: 8px;
+  padding: 16px;
+  border: 1px solid #eee;
+}
+.votingButton {
+  margin-top: 12px;
+  padding: 10px 20px;
+  border-radius: 6px;
+  background: #00897b;
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+.votingSelect {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  margin-top: 8px;
+}
+.votingResults {
+  margin-top: 20px;
+  background: #fffbe7;
+  border-radius: 8px;
+  padding: 12px;
+  border: 1px solid #ffe082;
+}
+.votingResultItem {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+.mistakeVotingBox {
+  margin-top: 24px;
+  background: #fffbe7;
+  border-radius: 8px;
+  padding: 16px;
+  border: 1px solid #ffe082;
+}
+.mistakeVotingButton {
+  margin-top: 12px;
+  padding: 10px 20px;
+  border-radius: 6px;
+  background: #d84315;
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+.mistakeVotingSelect {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  margin-top: 8px;
+}
+.mistakeVotingResults {
+  margin-top: 20px;
+  background: #fff3e0;
+  border-radius: 8px;
+  padding: 12px;
+  border: 1px solid #ffccbc;
+}
+.mistakeVotingResultItem {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+.resultsBox {
+  margin-top: 32px;
+  background: #e3f2fd;
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid #90caf9;
+  text-align: center;
+}
+.pointsTable {
+  width: 100%;
+  margin-top: 16px;
+  border-collapse: collapse;
+}
+.pointsTable th, .pointsTable td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #bbdefb;
+}
+.winnerRow {
+  background: #c8e6c9;
+  font-weight: bold;
+}
+.killerName {
+  color: #d84315;
+  font-weight: bold;
+}
+.roomLabel {
+  font-weight: 900 !important;
+  font-size: 1.5rem !important;
+  color: #ffd54f !important;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 12px #000a !important;
+}
+.roomOwner {
+  color: #ffd54f !important;
+  font-weight: bold;
+  text-shadow: 0 2px 8px #000a;
+}
+.roomYou {
+  color: #80cbc4 !important;
+  font-weight: bold;
+  text-shadow: 0 2px 8px #000a;
+}
+.roomButton, .votingButton, .chatSendBtn {
+  background: linear-gradient(90deg, #ffd54f 0%, #00897b 100%);
+  color: #fff !important;
+  border: none;
+  font-weight: bold;
+  box-shadow: 0 2px 8px #0004;
+  border-radius: 12px;
+  transition: background 0.2s, transform 0.1s;
+}
+.roomButton:hover, .votingButton:hover, .chatSendBtn:hover {
+  background: linear-gradient(90deg, #00897b 0%, #ffd54f 100%);
+  transform: translateY(-2px) scale(1.03);
+}
+.roomRoundBox {
+  background: rgba(20, 30, 40, 0.93);
+  color: #ffd54f;
+  border: 2px solid #ffd54f;
+  border-radius: 16px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 12px 32px;
+  margin: 18px 0 0 0;
+  box-shadow: 0 2px 12px #000a;
+  letter-spacing: 2px;
+  text-shadow: 0 2px 8px #000a;
+  display: inline-block;
+}
+.fogOverlay {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  opacity: 0.45;
+  animation: fogMove 32s linear infinite alternate;
+}
+@keyframes fogMove {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(60px); }
+}
+.exitButton {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  z-index: 10;
+  min-width: 90px;
+  font-weight: 700;
+  font-size: 17px;
+  padding: 8px 18px;
+  border-radius: 12px;
+  background: #222b;
+  color: #ffd54f;
+  border: 2px solid #ffd54f;
+  box-shadow: 0 2px 12px #000a;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+.exitButton:hover {
+  background: #ffd54f;
+  color: #222;
+}
+.startGameButton {
+  font-weight: 800;
+  font-size: 20px;
+  padding: 14px 38px;
+  border-radius: 16px;
+  background: #ffd54f;
+  color: #222;
+  border: none;
+  box-shadow: 0 2px 12px #000a;
+  margin-top: 12px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+.startGameButton:disabled {
+  background: #ffe082;
+  color: #888;
+  cursor: not-allowed;
+}
+.startGameButton:hover:not(:disabled) {
+  background: #ffecb3;
+  color: #111;
+} 

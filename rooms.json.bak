@@ -1,0 +1,3078 @@
+{
+  "5134AI": {
+    "players": [
+      {
+        "name": "شسيشيش"
+      },
+      {
+        "name": "بسسس"
+      },
+      {
+        "name": "شبشب"
+      },
+      {
+        "name": "شبشبيسب"
+      },
+      {
+        "name": "بصثبص"
+      }
+    ],
+    "owner": "شسيشيش",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "JPSH80": {
+    "players": [
+      {
+        "name": "سيبسس",
+        "role": "قاضي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "سبثؤصس",
+        "role": "محامي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "يسؤسس",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "شيشيش",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "يسؤسس",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [
+      {
+        "voter": "يسؤسس",
+        "suspect": "سيبسس"
+      }
+    ],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "4LOMV9": {
+    "players": [
+      {
+        "name": "سبسبس",
+        "role": "قاضي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "يسبسؤؤ",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "ششؤسشؤ",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "سبسبسب",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      }
+    ],
+    "owner": "ششؤسشؤ",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [
+      {
+        "voter": "ششؤسشؤ",
+        "suspect": "سبسبس"
+      },
+      {
+        "voter": "سبسبسب",
+        "suspect": "يسبسؤؤ"
+      }
+    ],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "HCZGP9": {
+    "players": [
+      {
+        "name": "يسرؤسرءؤ",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "رثثثث",
+        "role": "محامي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "سرسرس",
+        "role": "مجرم",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "بلاييلاي",
+        "role": "شاهد",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "بلاييلاي",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "LUX2V1": {
+    "players": [
+      {
+        "name": "يبسصؤص",
+        "role": "قاضي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "سؤس",
+        "role": "محامي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "سبؤصص",
+        "role": "مجرم",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "يبسسيبسب",
+        "role": "شاهد",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      }
+    ],
+    "owner": "يبسسيبسب",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "يبسسيبسب",
+        "suspect": "يبسصؤص"
+      },
+      {
+        "voter": "يبسصؤص",
+        "suspect": "سؤس"
+      },
+      {
+        "voter": "سبؤصص",
+        "suspect": "سؤس"
+      },
+      {
+        "voter": "سؤس",
+        "suspect": "سؤس"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": []
+  },
+  "XB0F2O": {
+    "players": [
+      {
+        "name": "اجمد",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "محمد",
+        "role": "محامي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "يسبسيس",
+        "role": "مجرم",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "سيبسيبس",
+        "role": "شاهد",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      }
+    ],
+    "owner": "محمد",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "UB1GSE": {
+    "players": [
+      {
+        "name": "سبسب"
+      },
+      {
+        "name": "سبسبب"
+      },
+      {
+        "name": "سبسسث"
+      },
+      {
+        "name": "لاؤؤلاؤ"
+      }
+    ],
+    "owner": "سبسب",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "T3XLVY": {
+    "players": [
+      {
+        "name": "سرسرر"
+      },
+      {
+        "name": "dvsvsv"
+      }
+    ],
+    "owner": "سرسرر",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "LGAV85": {
+    "players": [
+      {
+        "name": "acaaac",
+        "role": "قاضي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "dsfcss",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "acsacaca",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "vsdsvs",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      }
+    ],
+    "owner": "acaaac",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "acaaac",
+        "suspect": "dsfcss"
+      },
+      {
+        "voter": "vsdsvs",
+        "suspect": "dsfcss"
+      },
+      {
+        "voter": "acsacaca",
+        "suspect": "acsacaca"
+      },
+      {
+        "voter": "dsfcss",
+        "suspect": "vsdsvs"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": []
+  },
+  "CMOJBJ": {
+    "players": [
+      {
+        "name": "يبليب"
+      },
+      {
+        "name": "سبسر"
+      },
+      {
+        "name": "رسسسر"
+      },
+      {
+        "name": "يسرؤس"
+      },
+      {
+        "name": "يسؤيؤس"
+      }
+    ],
+    "owner": "يبليب",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "FRLJA8": {
+    "players": [
+      {
+        "name": "سيؤرس",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "سيؤسؤ",
+        "role": "محامي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "يسؤرسس",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "ىبىلب",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      }
+    ],
+    "owner": "ىبىلب",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "سيؤسؤ",
+        "suspect": "يسؤرسس"
+      },
+      {
+        "voter": "سيؤرس",
+        "suspect": "يسؤرسس"
+      },
+      {
+        "voter": "يسؤرسس",
+        "suspect": "ىبىلب"
+      },
+      {
+        "voter": "ىبىلب",
+        "suspect": "سيؤرس"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": []
+  },
+  "J19ETY": {
+    "players": [
+      {
+        "name": "dsvcsv",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "dssvsv",
+        "role": "محامي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "scscs",
+        "role": "مجرم",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "cody",
+        "role": "شاهد",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "cody",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "cody",
+        "suspect": "scscs"
+      },
+      {
+        "voter": "dssvsv",
+        "suspect": "dssvsv"
+      },
+      {
+        "voter": "scscs",
+        "suspect": "cody"
+      },
+      {
+        "voter": "dsvcsv",
+        "suspect": "cody"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": []
+  },
+  "DZT202": {
+    "players": [
+      {
+        "name": "سيؤرسس",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "يسرسرر",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "سيرسرسرئء",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "سيبسبس",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "يسرسرر",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "يسرسرر",
+        "suspect": "يسرسرر"
+      },
+      {
+        "voter": "سيبسبس",
+        "suspect": "سيرسرسرئء"
+      },
+      {
+        "voter": "سيؤرسس",
+        "suspect": "سيرسرسرئء"
+      },
+      {
+        "voter": "سيرسرسرئء",
+        "suspect": "يسرسرر"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": []
+  },
+  "NZ5LNW": {
+    "players": [
+      {
+        "name": "cody"
+      }
+    ],
+    "owner": "cody",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "0MPL0Y": {
+    "players": [
+      {
+        "name": "بيريري",
+        "role": "قاضي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "سريسس",
+        "role": "محامي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "ؤسششش",
+        "role": "مجرم",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "يسرسرس",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "ؤسششش",
+    "started": true,
+    "messages": [
+      {
+        "name": "ؤسششش",
+        "text": "ليبي",
+        "time": 1753084865033
+      },
+      {
+        "name": "بيريري",
+        "text": "يبسسب",
+        "time": 1753092054359
+      },
+      {
+        "name": "بيريري",
+        "text": "سيبسيبس",
+        "time": 1753092059471
+      },
+      {
+        "name": "بيريري",
+        "text": "سيبسب",
+        "time": 1753092062520
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "ؤسششش",
+        "suspect": "سريسس"
+      },
+      {
+        "voter": "بيريري",
+        "suspect": "سريسس"
+      },
+      {
+        "voter": "سريسس",
+        "suspect": "بيريري"
+      },
+      {
+        "voter": "يسرسرس",
+        "suspect": "بيريري"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": []
+  },
+  "LY23EA": {
+    "players": [
+      {
+        "name": "شؤسشؤشؤ"
+      },
+      {
+        "name": "ؤشسشؤ"
+      }
+    ],
+    "owner": "شؤسشؤشؤ",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "963RPD": {
+    "players": [
+      {
+        "name": "لبييبلي"
+      }
+    ],
+    "owner": "لبييبلي",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "8S3C3T": {
+    "players": [
+      {
+        "name": "يسبسب"
+      }
+    ],
+    "owner": "يسبسب",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "YW6B8W": {
+    "players": [
+      {
+        "name": "لايبي"
+      },
+      {
+        "name": "شسش"
+      }
+    ],
+    "owner": "لايبي",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "WERDH9": {
+    "players": [
+      {
+        "name": "يسرسرسر"
+      },
+      {
+        "name": "يسبسس"
+      },
+      {
+        "name": "شسيشسي"
+      },
+      {
+        "name": "شيشي"
+      }
+    ],
+    "owner": "يسرسرسر",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "VO22OM": {
+    "players": [
+      {
+        "name": "شسيشش"
+      }
+    ],
+    "owner": "شسيشش",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "SWL2YJ": {
+    "players": [
+      {
+        "name": "dcscsd"
+      }
+    ],
+    "owner": "dcscsd",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "5AUHFV": {
+    "players": [
+      {
+        "name": "يسبسب"
+      }
+    ],
+    "owner": "يسبسب",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "MKBDVA": {
+    "players": [
+      {
+        "name": "بلييبلي"
+      }
+    ],
+    "owner": "بلييبلي",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "XQXC2S": {
+    "players": [
+      {
+        "name": "سبسبسيبس"
+      }
+    ],
+    "owner": "سبسبسيبس",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "XXQQ52": {
+    "players": [
+      {
+        "name": "يسبيبسبس",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "سيبسبسبي",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "تالببلات",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "سيبسبسيب",
+        "role": "شاهد",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      }
+    ],
+    "owner": "تالببلات",
+    "started": true,
+    "messages": [
+      {
+        "name": "تالببلات",
+        "text": "تبلبل",
+        "time": 1753092354841
+      },
+      {
+        "name": "تالببلات",
+        "text": "بلابلا",
+        "time": 1753092367829
+      }
+    ],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "61HSFN": {
+    "players": [
+      {
+        "name": "لاتالتلات",
+        "role": "قاضي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "سبسيب",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "سيبسبي",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "يبسبسب",
+        "role": "شاهد",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      }
+    ],
+    "owner": "لاتالتلات",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "BHONQD": {
+    "players": [
+      {
+        "name": "سبسب",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "سيبسبس",
+        "role": "محامي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "سيبسس",
+        "role": "مجرم",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "سيبسبيبس",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "سيبسبس",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "96LIKA": {
+    "players": [
+      {
+        "name": "سيبسبس",
+        "role": "قاضي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "يسبسبءررقث",
+        "role": "محامي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "بسيسبسبث",
+        "role": "مجرم",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "يبسسبيسبس",
+        "role": "شاهد",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      }
+    ],
+    "owner": "يبسسبيسبس",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "NYPT1G": {
+    "players": [
+      {
+        "name": "سبيسيب"
+      }
+    ],
+    "owner": "سبيسيب",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "BV4PNJ": {
+    "players": [
+      {
+        "name": "شسيشيسش"
+      },
+      {
+        "name": "يسبسيبس"
+      },
+      {
+        "name": "سببسؤسس"
+      },
+      {
+        "name": "سبسيبسب"
+      },
+      {
+        "name": "يسرسيرسر"
+      }
+    ],
+    "owner": "شسيشيسش",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "FFQ04G": {
+    "players": [
+      {
+        "name": "بيسبسيب"
+      }
+    ],
+    "owner": "بيسبسيب",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "A945G2": {
+    "players": [
+      {
+        "name": "شسؤشسؤش"
+      }
+    ],
+    "owner": "شسؤشسؤش",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "K40JZH": {
+    "players": [
+      {
+        "name": "يسرسيرس"
+      }
+    ],
+    "owner": "يسرسيرس",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "1ML1N1": {
+    "players": [
+      {
+        "name": "fdssdfsf"
+      },
+      {
+        "name": "يسبسبسب"
+      },
+      {
+        "name": "يسرسرسر"
+      }
+    ],
+    "owner": "fdssdfsf",
+    "started": false,
+    "messages": [
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب بسيبس الغرفة.",
+        "time": 1753094735693
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب يسرسيرسر الغرفة.",
+        "time": 1753095125752
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "710XVZ": {
+    "players": [
+      {
+        "name": "dscdscsd",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "ascacas",
+        "role": "محامي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "dscsdsdsfsd",
+        "role": "مجرم",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "dscsds",
+        "role": "شاهد",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      }
+    ],
+    "owner": "dscdscsd",
+    "started": true,
+    "messages": [
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب dvssvd الغرفة.",
+        "time": 1753095247091
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب svdsdvr الغرفة.",
+        "time": 1753095265297
+      },
+      {
+        "name": "ascacas",
+        "text": "سبسب",
+        "time": 1753104050057
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "dscdscsd",
+        "suspect": "ascacas"
+      },
+      {
+        "voter": "dscsds",
+        "suspect": "dscsdsdsfsd"
+      },
+      {
+        "voter": "dscsdsdsfsd",
+        "suspect": "dscdscsd"
+      },
+      {
+        "voter": "ascacas",
+        "suspect": "dscsds"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": [],
+    "killerName": "dscsdsdsfsd"
+  },
+  "SQBCEI": {
+    "players": [
+      {
+        "name": "شسؤشسش",
+        "role": "قاضي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 1
+      },
+      {
+        "name": "شؤشسؤشؤ",
+        "role": "محامي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 1
+      },
+      {
+        "name": "شؤششسؤشؤ",
+        "role": "مجرم",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 6
+      },
+      {
+        "name": "سشؤششؤ",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 1
+      }
+    ],
+    "owner": "شؤششسؤشؤ",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "شؤششسؤشؤ",
+        "suspect": "شؤششسؤشؤ"
+      },
+      {
+        "voter": "شؤشسؤشؤ",
+        "suspect": "سشؤششؤ"
+      },
+      {
+        "voter": "شسؤشسش",
+        "suspect": "سشؤششؤ"
+      },
+      {
+        "voter": "سشؤششؤ",
+        "suspect": "سشؤششؤ"
+      }
+    ],
+    "mistakeVoting": false,
+    "mistakeVotes": [
+      {
+        "voter": "شؤششسؤشؤ",
+        "target": "شسؤشسش"
+      },
+      {
+        "voter": "شؤشسؤشؤ",
+        "target": "شسؤشسش"
+      },
+      {
+        "voter": "شسؤشسش",
+        "target": "شسؤشسش"
+      },
+      {
+        "voter": "سشؤششؤ",
+        "target": "شسؤشسش"
+      }
+    ],
+    "killerName": "شؤششسؤشؤ"
+  },
+  "YSL3UP": {
+    "players": [
+      {
+        "name": "lolo",
+        "role": "قاضي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "fofo",
+        "role": "محامي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "Cody",
+        "role": "مجرم",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "dscs",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "Cody",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "Cody",
+        "suspect": "lolo"
+      },
+      {
+        "voter": "dscs",
+        "suspect": "fofo"
+      },
+      {
+        "voter": "lolo",
+        "suspect": "Cody"
+      },
+      {
+        "voter": "fofo",
+        "suspect": "Cody"
+      }
+    ],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "killerName": "Cody"
+  },
+  "PEAVIK": {
+    "players": [
+      {
+        "name": "mody"
+      }
+    ],
+    "owner": "mody",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "O1ATAD": {
+    "players": [
+      {
+        "name": "cody",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "lolo",
+        "role": "محامي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "mody",
+        "role": "مجرم",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "fofo",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      }
+    ],
+    "owner": "cody",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "mody",
+        "suspect": "mody"
+      },
+      {
+        "voter": "cody",
+        "suspect": "lolo"
+      },
+      {
+        "voter": "lolo",
+        "suspect": "lolo"
+      },
+      {
+        "voter": "fofo",
+        "suspect": "cody"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": [],
+    "killerName": "mody"
+  },
+  "QF9NU9": {
+    "players": [
+      {
+        "name": "cody",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "vssvsdv",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "fssdf",
+        "role": "مجرم",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "sfdsfs",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      }
+    ],
+    "owner": "cody",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "cody",
+        "suspect": "vssvsdv"
+      },
+      {
+        "voter": "sfdsfs",
+        "suspect": "fssdf"
+      },
+      {
+        "voter": "fssdf",
+        "suspect": "vssvsdv"
+      },
+      {
+        "voter": "vssvsdv",
+        "suspect": "sfdsfs"
+      }
+    ],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "killerName": "fssdf"
+  },
+  "PUT29P": {
+    "players": [
+      {
+        "name": "fdsfsdf",
+        "role": "قاضي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 1
+      },
+      {
+        "name": "dsfsf",
+        "role": "محامي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 1
+      },
+      {
+        "name": "sdfsdf",
+        "role": "مجرم",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 5
+      },
+      {
+        "name": "sfsdfsf",
+        "role": "شاهد",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 3
+      }
+    ],
+    "owner": "fdsfsdf",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "fdsfsdf",
+        "suspect": "dsfsf"
+      },
+      {
+        "voter": "sdfsdf",
+        "suspect": "sdfsdf"
+      },
+      {
+        "voter": "dsfsf",
+        "suspect": "sfsdfsf"
+      },
+      {
+        "voter": "sfsdfsf",
+        "suspect": "sdfsdf"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": [],
+    "killerName": "sdfsdf"
+  },
+  "XW64UJ": {
+    "players": [
+      {
+        "name": "dsfsf",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "dsfsdfs",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "cody",
+        "role": "مجرم",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "sfsfs",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      }
+    ],
+    "owner": "cody",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "N20ZPI": {
+    "players": [
+      {
+        "name": "mody",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 1
+      },
+      {
+        "name": "lolo",
+        "role": "محامي",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 1
+      },
+      {
+        "name": "fofo",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 5
+      },
+      {
+        "name": "cody",
+        "role": "شاهد",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 1
+      }
+    ],
+    "owner": "cody",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "fofo",
+        "suspect": "lolo"
+      },
+      {
+        "voter": "lolo",
+        "suspect": "mody"
+      },
+      {
+        "voter": "mody",
+        "suspect": "lolo"
+      },
+      {
+        "voter": "cody",
+        "suspect": "mody"
+      }
+    ],
+    "mistakeVoting": true,
+    "mistakeVotes": [
+      {
+        "voter": "cody",
+        "target": "lolo"
+      },
+      {
+        "voter": "lolo",
+        "target": "mody"
+      },
+      {
+        "voter": "mody",
+        "target": "fofo"
+      }
+    ],
+    "killerName": "fofo"
+  },
+  "ISJYIO": {
+    "players": [
+      {
+        "name": "cody",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 1
+      },
+      {
+        "name": "mody",
+        "role": "محامي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 1
+      },
+      {
+        "name": "lolo",
+        "role": "مجرم",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 6
+      },
+      {
+        "name": "dsfsfsf",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 1
+      }
+    ],
+    "owner": "cody",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "cody",
+        "suspect": "mody"
+      },
+      {
+        "voter": "dsfsfsf",
+        "suspect": "mody"
+      },
+      {
+        "voter": "mody",
+        "suspect": "cody"
+      },
+      {
+        "voter": "lolo",
+        "suspect": "lolo"
+      }
+    ],
+    "mistakeVoting": false,
+    "mistakeVotes": [
+      {
+        "voter": "cody",
+        "target": "lolo"
+      },
+      {
+        "voter": "dsfsfsf",
+        "target": "mody"
+      },
+      {
+        "voter": "mody",
+        "target": "lolo"
+      },
+      {
+        "voter": "lolo",
+        "target": "cody"
+      }
+    ],
+    "killerName": "lolo"
+  },
+  "R39BLW": {
+    "players": [
+      {
+        "name": "رسسريس",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 1
+      },
+      {
+        "name": "يسبسبب",
+        "role": "محامي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 1
+      },
+      {
+        "name": "سبسببس",
+        "role": "مجرم",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 4
+      },
+      {
+        "name": "يسبسرؤسر",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 3
+      }
+    ],
+    "owner": "رسسريس",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [
+      {
+        "voter": "رسسريس",
+        "suspect": "يسبسبب"
+      },
+      {
+        "voter": "سبسببس",
+        "suspect": "رسسريس"
+      },
+      {
+        "voter": "يسبسرؤسر",
+        "suspect": "سبسببس"
+      },
+      {
+        "voter": "يسبسبب",
+        "suspect": "يسبسرؤسر"
+      }
+    ],
+    "mistakeVoting": false,
+    "mistakeVotes": [
+      {
+        "voter": "رسسريس",
+        "target": "يسبسبب"
+      },
+      {
+        "voter": "سبسببس",
+        "target": "يسبسبب"
+      },
+      {
+        "voter": "يسبسرؤسر",
+        "target": "يسبسبب"
+      },
+      {
+        "voter": "يسبسبب",
+        "target": "سبسببس"
+      }
+    ],
+    "killerName": "سبسببس"
+  },
+  "0HRX07": {
+    "players": [
+      {
+        "name": "يسرسرس",
+        "role": "قاضي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 1
+      },
+      {
+        "name": "سببس",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 1
+      },
+      {
+        "name": "سيببسبيب",
+        "role": "مجرم",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 5
+      },
+      {
+        "name": "سيبصؤص",
+        "role": "شاهد",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 1
+      }
+    ],
+    "owner": "يسرسرس",
+    "started": true,
+    "messages": [],
+    "round": 3,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "1WINEM": {
+    "players": [
+      {
+        "name": "cody",
+        "role": "قاضي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 3
+      },
+      {
+        "name": "lolo",
+        "role": "محامي",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 1
+      },
+      {
+        "name": "mmody",
+        "role": "مجرم",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 5
+      },
+      {
+        "name": "fofo",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 1
+      }
+    ],
+    "owner": "cody",
+    "started": true,
+    "messages": [],
+    "round": 2,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "KY24RF": {
+    "players": [
+      {
+        "name": "سبثؤرث",
+        "role": "قاضي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 6
+      },
+      {
+        "name": "يثقثب",
+        "role": "محامي",
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 7
+      },
+      {
+        "name": "سيبسبسث",
+        "role": "مجرم",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 4
+      },
+      {
+        "name": "بسيبسيببب",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 2
+      }
+    ],
+    "owner": "بسيبسيببب",
+    "started": true,
+    "messages": [],
+    "round": 3,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "CZDJ7O": {
+    "players": [
+      {
+        "name": "dsfcsdc",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      },
+      {
+        "name": "veve",
+        "role": "محامي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "fefefe",
+        "role": "مجرم",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً.",
+        "points": 0
+      },
+      {
+        "name": "dfdfgd",
+        "role": "شاهد",
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      }
+    ],
+    "owner": "dfdfgd",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "FJZ9YA": {
+    "players": [
+      {
+        "name": "vsdvsv",
+        "role": "قاتل",
+        "points": 0,
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع."
+        ],
+        "mistake": "الشاهد لم يرَ أحداً. و المحامي كان نائماً وقت الجريمة."
+      },
+      {
+        "name": "dfsscs",
+        "role": "محامي",
+        "points": 0,
+        "info": [
+          "المجرم كان يرتدي قميصاً أزرق.",
+          "المحامي كان يتحدث في الهاتف وقت الجريمة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح."
+      },
+      {
+        "name": "fsdvsv",
+        "role": "شاهد",
+        "points": 0,
+        "info": [
+          "القاضي غادر المكتب قبل السرقة.",
+          "الشاهد رأى شخصاً يخرج مسرعاً."
+        ],
+        "mistake": "الساعة سُرقت في الصباح."
+      },
+      {
+        "name": "dfss",
+        "role": "قاضي",
+        "points": 0,
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر."
+      }
+    ],
+    "owner": "fsdvsv",
+    "started": true,
+    "messages": [
+      {
+        "name": "system",
+        "text": "بدأت الجولة 1#",
+        "time": 1753172103380
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "CCM99W": {
+    "players": [
+      {
+        "name": "dvsvs",
+        "role": "قاضي",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "القاضي كان في المكتب وقت السرقة.",
+        "points": 0
+      },
+      {
+        "name": "efsdscsdc",
+        "role": "محامي",
+        "info": [
+          "المحامي كان يتحدث في الهاتف وقت الجريمة.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "الساعة سُرقت في الصباح.",
+        "points": 0
+      },
+      {
+        "name": "fsdfsff",
+        "role": "مجرم",
+        "info": [
+          "الشاهد رأى شخصاً يخرج مسرعاً.",
+          "المجرم كان يرتدي قميصاً أزرق."
+        ],
+        "mistake": "المحامي كان نائماً وقت الجريمة.",
+        "points": 0
+      },
+      {
+        "name": "dfsfs",
+        "role": "شاهد",
+        "info": [
+          "الساعة سُرقت بعد انتهاء الاجتماع.",
+          "القاضي غادر المكتب قبل السرقة."
+        ],
+        "mistake": "المجرم كان يرتدي قميصاً أحمر.",
+        "points": 0
+      }
+    ],
+    "owner": "efsdscsdc",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "DX29P1": {
+    "players": [
+      {
+        "name": "سعود",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "وصولي للحمام بعد تواجد الشرطة غير متناسب مع تسلسل الأحداث.",
+        "points": 0
+      },
+      {
+        "name": "عبدو",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "أنا كنت أساعد طفل تائه وهذا هو سبب تواجدي هناك.",
+        "points": 0
+      },
+      {
+        "name": "محمد",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت مع طفل صغير تايه في نفس اللحظة تقريبًا.",
+          "لما وصلت الحمام، لقيت الشرطة أصلاً موجودة.",
+          "الضحية كان معروف إنه عنده مشاكل مع موظفين من المول."
+        ],
+        "mistake": "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر. اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ.",
+        "points": 0
+      },
+      {
+        "name": "احمد",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "وصولي للحمام بعد تواجد الشرطة غير متناسب مع تسلسل الأحداث.",
+        "points": 0
+      }
+    ],
+    "owner": "سعود",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "OM2SS8": {
+    "players": [
+      {
+        "name": "سعود",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "ادعيت أن الشرطة كانت موجودة في وقت مبكر جداً.",
+        "points": 0
+      },
+      {
+        "name": "عبدو",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "رأيت النور مضاءً طوال الوقت.",
+        "points": 0
+      },
+      {
+        "name": "احمد",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ.",
+          "ادعائي بمساعدة طفل تائه قد لا يتطابق مع الحقائق الأخرى."
+        ],
+        "points": 0
+      },
+      {
+        "name": "محمد",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر.",
+        "points": 0
+      }
+    ],
+    "owner": "سعود",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "OA2OXO": {
+    "players": [
+      {
+        "name": "سعود"
+      },
+      {
+        "name": "محمد"
+      }
+    ],
+    "owner": "سعود",
+    "started": false,
+    "messages": [
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب احمد الغرفة.",
+        "time": 1753195999755
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب عبدو الغرفة.",
+        "time": 1753196001562
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب سبصؤص الغرفة.",
+        "time": 1753196043633
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب عبدو الغرفة.",
+        "time": 1753196075159
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب قريري الغرفة.",
+        "time": 1753196467980
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب يسرسرس الغرفة.",
+        "time": 1753196485009
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب سرسير الغرفة.",
+        "time": 1753196504980
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب رسرسي الغرفة.",
+        "time": 1753196530171
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب سببسيب الغرفة.",
+        "time": 1753196549756
+      },
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب ريسرسر الغرفة.",
+        "time": 1753196556217
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "3OFHHL": {
+    "players": [
+      {
+        "name": "سعود"
+      }
+    ],
+    "owner": "سعود",
+    "started": false,
+    "messages": [
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب سيبس الغرفة.",
+        "time": 1753196650483
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
+  },
+  "MOY9T5": {
+    "players": [
+      {
+        "name": "شؤسشؤ",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر.",
+        "points": 0
+      },
+      {
+        "name": "شيشش",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "كنت في المكتبة أبحث عن كتاب، لكن لم أسمع أي صوت.",
+        "points": 0
+      },
+      {
+        "name": "سعود",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "رأيت النور مضاءً طوال الوقت.",
+          "اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ."
+        ],
+        "points": 0
+      },
+      {
+        "name": "شيسشي",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "لم يكن هناك أحد في المكتبة غيري.",
+        "points": 0
+      }
+    ],
+    "owner": "سعود",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "GONSEO": {
+    "players": [
+      {
+        "name": "احمد",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "رأيت النور مضاءً طوال الوقت.",
+        "points": 0
+      },
+      {
+        "name": "سعود",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "كنت في المكتبة أبحث عن كتاب، لكن لم أسمع أي صوت.",
+        "points": 0
+      },
+      {
+        "name": "عبدو",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "لم يكن هناك أحد في المكتبة غيري.",
+          "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر."
+        ],
+        "points": 0
+      },
+      {
+        "name": "محمد",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "ادعائي بمساعدة طفل تائه قد لا يتطابق مع الحقائق الأخرى.",
+        "points": 0
+      }
+    ],
+    "owner": "سعود",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "T0WXNY": {
+    "players": [
+      {
+        "name": "سعود",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "كنت في المكتبة أبحث عن كتاب، لكن لم أسمع أي صوت.",
+        "points": 0
+      },
+      {
+        "name": "يسرسي",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "ادعائي بمساعدة طفل تائه قد لا يتطابق مع الحقائق الأخرى.",
+        "points": 0
+      },
+      {
+        "name": "يسرس",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ.",
+          "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر."
+        ],
+        "points": 0
+      },
+      {
+        "name": "يرسرس",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "لم يكن هناك أحد في المكتبة غيري.",
+        "points": 0
+      }
+    ],
+    "owner": "سعود",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "5UBREU": {
+    "players": [
+      {
+        "name": "سعود",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "لم يكن هناك أحد في المكتبة غيري.",
+        "points": 0
+      },
+      {
+        "name": "يسرر",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ.",
+        "points": 0
+      },
+      {
+        "name": "سرس",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "ادعائي بمساعدة طفل تائه قد لا يتطابق مع الحقائق الأخرى.",
+          "ادعيت أن الشرطة كانت موجودة في وقت مبكر جداً."
+        ],
+        "points": 0
+      },
+      {
+        "name": "يرس",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "كنت في المكتبة أبحث عن كتاب، لكن لم أسمع أي صوت.",
+        "points": 0
+      }
+    ],
+    "owner": "سعود",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "3WARC9": {
+    "players": [
+      {
+        "name": "ؤيسس",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "ادعيت أن الشرطة كانت موجودة في وقت مبكر جداً.",
+        "points": 0
+      },
+      {
+        "name": "سعود",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "كنت في المكتبة أبحث عن كتاب، لكن لم أسمع أي صوت.",
+        "points": 0
+      },
+      {
+        "name": "يسؤسس",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر.",
+          "اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ."
+        ],
+        "points": 0
+      },
+      {
+        "name": "سيرسر",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "رأيت النور مضاءً طوال الوقت.",
+        "points": 0
+      }
+    ],
+    "owner": "سعود",
+    "started": true,
+    "messages": [
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب يسبسب الغرفة.",
+        "time": 1753204194281
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "Y4FJZB": {
+    "players": [
+      {
+        "name": "احمد",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر.",
+        "points": 0
+      },
+      {
+        "name": "عبدو",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "ادعائي بمساعدة طفل تائه قد لا يتطابق مع الحقائق الأخرى.",
+        "points": 0
+      },
+      {
+        "name": "محمد",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "رأيت النور مضاءً طوال الوقت.",
+          "كنت في المكتبة أبحث عن كتاب، لكن لم أسمع أي صوت."
+        ],
+        "points": 0
+      },
+      {
+        "name": "سهود",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ.",
+        "points": 0
+      }
+    ],
+    "owner": "سهود",
+    "started": true,
+    "messages": [
+      {
+        "name": "system",
+        "text": "لقد غادر اللاعب احمد الغرفة.",
+        "time": 1753204780581
+      }
+    ],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "V7R7UV": {
+    "players": [
+      {
+        "name": "لالبلاب",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "اعتقادي بأن الكارت الذكي لا يمكن سرقته هو اعتقاد خاطئ.",
+        "points": 0
+      },
+      {
+        "name": "يسببسؤ",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "لم يكن هناك أحد في المكتبة غيري.",
+        "points": 0
+      },
+      {
+        "name": "يسبسببب",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "ادعائي بمساعدة طفل تائه قد لا يتطابق مع الحقائق الأخرى.",
+          "رأيت النور مضاءً طوال الوقت."
+        ],
+        "points": 0
+      },
+      {
+        "name": "سؤيس",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر.",
+        "points": 0
+      }
+    ],
+    "owner": "لالبلاب",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": true,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  },
+  "UI3UG4": {
+    "players": [
+      {
+        "name": "casac",
+        "role": "قاضي",
+        "info": [
+          "أنا شفت الضحية طالع من محل العصير قبل ساعة من الحادث، وكان باين عليه متوتر.",
+          "وبصراحة، أنا دخلت الحمام بعده بـ10 دقايق ولقيته فاضي.",
+          "وكان في عامل نظافة غريب بيتلفت كتير جنب الباب."
+        ],
+        "mistake": "دخولي الحمام بعد 10 دقائق ووجدتة فارغا يناقض وجود شخص آخر.",
+        "points": 0
+      },
+      {
+        "name": "asca",
+        "role": "محامي",
+        "info": [
+          "أنا كنت قاعدة في الكافيه وقت الحادث، وفعلاً شفت الضحية وهو بيكلم شخص لابس جاكيت أسود.",
+          "سمعت إنه كان بيهدده بشيء.",
+          "والمفروض إن الباب بيفتح بالكارت الذكي، محدش يقدر يدخل غير الضحية!"
+        ],
+        "mistake": "ادعائي بمساعدة طفل تائه قد لا يتطابق مع الحقائق الأخرى.",
+        "points": 0
+      },
+      {
+        "name": "dassadsa",
+        "role": "مجرم",
+        "info": [
+          "أنا كنت أحاول تهدئة طفل تائه بجوار الحمام، كنت قلقاً جداً بسببه."
+        ],
+        "mistake": [
+          "كنت في المكتبة أبحث عن كتاب، لكن لم أسمع أي صوت.",
+          "ادعيت أن الشرطة كانت موجودة في وقت مبكر جداً."
+        ],
+        "points": 0
+      },
+      {
+        "name": "dscvsd",
+        "role": "شاهد",
+        "info": [
+          "أنا اشتغلت قبل كده في المركز، والحمام ده بيبص ناحيته كاميرا بس اتكسرت من 3 أيام.",
+          "سمعت خناقة جوة الحمام حوالي 9:10 الصبح، وبعدها هدوء تام.",
+          "وبالمناسبة، الكارت الذكي مش لازم يكون مملوك للشخص، ممكن يسرقه."
+        ],
+        "mistake": "لم يكن هناك أحد في المكتبة غيري.",
+        "points": 0
+      }
+    ],
+    "owner": "dassadsa",
+    "started": true,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": [],
+    "scenario": {
+      "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
+      "title": "جريمة المرحاض الذكي"
+    }
+  }
+}
