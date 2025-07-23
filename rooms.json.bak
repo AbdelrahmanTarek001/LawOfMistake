@@ -3066,7 +3066,7 @@
     "started": true,
     "messages": [],
     "round": 1,
-    "voting": false,
+    "voting": true,
     "votes": [],
     "mistakeVoting": false,
     "mistakeVotes": [],

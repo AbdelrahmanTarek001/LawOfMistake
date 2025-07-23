@@ -3074,5 +3074,20 @@
       "description": "في صباح ضبابي، عُثر على جثة رجل في أحد المراحيض الذكية في مركز التسوق. لا كاميرات، لا شهود… فقط 4 أشخاص كانوا بالمكان.",
       "title": "جريمة المرحاض الذكي"
     }
+  },
+  "Y2W663": {
+    "players": [
+      {
+        "name": "sadas"
+      }
+    ],
+    "owner": "sadas",
+    "started": false,
+    "messages": [],
+    "round": 1,
+    "voting": false,
+    "votes": [],
+    "mistakeVoting": false,
+    "mistakeVotes": []
   }
 }
